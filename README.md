@@ -9,11 +9,13 @@ This repository contains a comprehensive SQL project developed during a Data Ana
 
 In this project, we will leverage SQL querying and data analysis skills to explore a comprehensive dataset of individuals. The dataset includes variables such as `EmployeeName`, `Patient_id`, `gender`, `D.O.B`, `hypertension`, `heart_disease`, `smoking_history`, `BMI`, `HbA1c_level`, `blood_glucose_level`, and `diabetes`. The aim is to analyze and derive insights into various aspects such as age, gender, body mass index (BMI), blood pressure, family history of diabetes, dietary habits, physical activity levels, and laboratory test results. This analysis will facilitate a deeper understanding of diabetes risk factors and support effective data-driven decision-making.
 
+
+
+## Project Details
+
 1. [Project Presentation](https://github.com/ShouvikSaha504/Diabetes-Prediction-Assessment-SQL/blob/f8fb9d35b42f8af7005fc66ce941ca6e338f9ea9/Diabetes_prediction_SQL%20project.pdf)
 2. [SQL Code Solutions](https://github.com/ShouvikSaha504/Diabetes-Prediction-Assessment-SQL/blob/f8fb9d35b42f8af7005fc66ce941ca6e338f9ea9/diabetes_prediction_solution.sql)
 3. [Dataset Link](https://github.com/ShouvikSaha504/Diabetes-Prediction-Assessment-SQL/blob/f8fb9d35b42f8af7005fc66ce941ca6e338f9ea9/Diabetes_prediction.xlsx)
-
-## Project Details
 
 The SQL assessment includes the following tasks:
 
@@ -127,7 +129,13 @@ These methodologies collectively enable a thorough analysis of patient health me
    - **View Creation**: Utilize the created views for quick access to important patient metrics, aiding in more efficient decision-making.
 
 5. **Performance Optimization:**
-   - **Query Optimization**: Apply recommended optimization techniques to improve SQL query performance, ensuring faster data retrieval and analysis.
+   - **Optimizing Query Performance & Enhancing Database Schema:**
+
+   To improve SQL query performance and ensure efficient data retrieval and analysis, apply the following optimization techniques:
+   
+   - **Normalization**: Organize the database using normalization to minimize data redundancy and prevent update anomalies. This process involves breaking down tables into smaller, related tables to ensure data integrity and reduce duplication.
+   - **Indexing**: Implement indexing on columns that are frequently queried to accelerate data retrieval. Indexes help by allowing the database to quickly locate the desired data without scanning the entire table.
+   - **Primary and Foreign Key Constraints**: Define primary keys to uniquely identify each record and establish foreign key relationships to maintain referential integrity. This ensures accurate data linkage and consistency across related tables.
 
 6. **Further Analysis:**
    - **Lifestyle and Dietary Habits**: Extend the analysis to include lifestyle and dietary habits, which can provide additional insights into diabetes risk factors and inform comprehensive health strategies.
