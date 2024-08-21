@@ -1,4 +1,4 @@
-# Apollo Diabetes-Analysis-Assessment-Advanced Data Retrieval and Insights:SQL
+# Apollo Diabetes-Case Study-Advanced Data Retrieval and Insights:SQL
 A comprehensive SQL project of diabetes prediction assessment
 
 ## Overview
