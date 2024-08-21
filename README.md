@@ -125,17 +125,10 @@ These methodologies collectively enable a thorough analysis of patient health me
    - **Gender-Based Analysis**: Analyze differences in health metrics between genders to design gender-specific health programs and interventions.
 
 4. **Database Enhancements:**
-   - **Schema Improvements**: Implement suggested schema improvements to minimize data redundancy and enhance the overall integrity of the database.
-   - **View Creation**: Utilize the created views for quick access to important patient metrics, aiding in more efficient decision-making.
+   - **Schema Improvements**: Implement suggested schema improvements to minimize data redundancy and enhance the overall integrity of the database by using normalization techniques, indexing, and primary key-foreign key relationships.
 
 5. **Performance Optimization:**
-   - **Optimizing Query Performance & Enhancing Database Schema:**
-
-   To improve SQL query performance and ensure efficient data retrieval and analysis, apply the following optimization techniques:
-   
-   - **Normalization**: Organize the database using normalization to minimize data redundancy and prevent update anomalies. This process involves breaking down tables into smaller, related tables to ensure data integrity and reduce duplication.
-   - **Indexing**: Implement indexing on columns that are frequently queried to accelerate data retrieval. Indexes help by allowing the database to quickly locate the desired data without scanning the entire table.
-   - **Primary and Foreign Key Constraints**: Define primary keys to uniquely identify each record and establish foreign key relationships to maintain referential integrity. This ensures accurate data linkage and consistency across related tables.
+   - **Query Optimization**: Apply recommended optimization techniques to improve SQL query performance, ensuring faster data retrieval and analysis.
 
 6. **Further Analysis:**
    - **Lifestyle and Dietary Habits**: Extend the analysis to include lifestyle and dietary habits, which can provide additional insights into diabetes risk factors and inform comprehensive health strategies.
