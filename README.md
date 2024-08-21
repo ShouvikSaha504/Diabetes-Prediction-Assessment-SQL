@@ -110,7 +110,7 @@ These methodologies collectively enable a thorough analysis of patient health me
 - Data Analysis
 - Database Management
 
-**Actionable Insights and Recommendations:**
+## Actionable Insights and Recommendations:**
 
 1. **Health Risk Identification:**
    - **Diabetes and Hypertension**: Identified patients with both hypertension and diabetes, which highlights a higher risk group for targeted health interventions and preventive measures.
