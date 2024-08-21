@@ -76,7 +76,7 @@ The SQL assessment includes the following tasks:
 19. **SQL Query Optimization**
     - Explain how to optimize the performance of SQL queries on this dataset.
 
-**Methodologies:**
+## Methodologies:
 
 1. **Data Retrieval and Manipulation:**
    - **SQL Queries**: Utilized SQL queries to retrieve, filter, and manipulate patient data, including retrieving patient IDs, filtering by age and gender, and calculating average BMI.
